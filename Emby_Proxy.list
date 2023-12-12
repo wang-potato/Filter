@@ -1,46 +1,40 @@
 #======================================#
-#更新时间2023-12-11
+#更新时间2023-12-12
 #======================================#
 
 
 #> 1111
-DOMAIN-SUFFIX,emby.ml
-DOMAIN-SUFFIX,loseremby.org
+DOMAIN,line.xmsl.org
 
 # > TreeDiagram
 DOMAIN-SUFFIX,123456.al
 
-# > pornemby
-DOMAIN,pornemby.club
+# > 尘烬
+DOMAIN,free.emby.eu.org
+DOMAIN,9wfree.emby.eu.org
 
 # > 卷毛鼠
-DOMAIN,jmsooo.com
-DOMAIN,cf.jmsooo.com
-DOMAIN,hk.jmsooo.com
-DOMAIN,sg.jmsooo.com
+DOMAIN-SUFFIX,jmsooo.com
 
 # > 终点站
-DOMAIN,emby.wtf
-DOMAIN,pub1back.emby.wtf
-DOMAIN,pub2back.emby.wtf
-DOMAIN,pub3back.emby.wtf
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
 DOMAIN,pub3.emby.wtf
 
 # > polo
 DOMAIN-SUFFIX,poloemby.xyz
-DOMAIN-SUFFIX,pololine.ml
+DOMAIN,auto.polodns.xyz
 
 # > MisakaF
 DOMAIN-SUFFIX,misakaf.org
 
 # > 垃圾影音
-DOMAIN-SUFFIX,loseremby.org
+DOMAIN,cf.xmsl.org
+DOMAIN,free.xmsl.org
 
-# > Cc
+# > Cc <日本节点>
 DOMAIN,cc.ccemby.tk
 
-# > aca
-DOMAIN,emby.aca.best
-DOMAIN,porn.aca.best
+# > Peach <港日节点>
+DOMAIN,embymv.tk
+
