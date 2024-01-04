@@ -29,14 +29,14 @@ DOMAIN,auto.polodns.xyz
 DOMAIN-SUFFIX,misakaf.org
 
 # > 垃圾影音
-DOMAIN,cf.xmsl.org
-DOMAIN,free.xmsl.org
+DOMAIN-SUFFIX,xmsl.org
 
 # > Cc <日本节点>
 DOMAIN,cc.ccemby.tk
 
 # > Peach <港日节点>
 DOMAIN,embymv.tk
+IP-CIDR,193.123.232.141/32,no-resolve
 
 # > ACA
 DOMAIN-SUFFIX,aca.best
