@@ -1,22 +1,22 @@
 #======================================#
-#更新时间2024-01-01
+#更新时间2024-01-04
 #======================================#
 
 
 #> 1111
 DOMAIN,line.xmsl.org
 
-# > TreeDiagram
+# > TreeDiagram(未解决)
 DOMAIN-SUFFIX,123456.al
 
 # > 尘烬
 DOMAIN,free.emby.eu.org
 DOMAIN,9wfree.emby.eu.org
 
-# > 卷毛鼠
+# > 卷毛鼠(未解决)
 DOMAIN-SUFFIX,jmsooo.com
 
-# > 终点站
+# > 终点站(未解决)
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
 DOMAIN,pub3.emby.wtf
@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,xmsl.org
 
 # > Cc <日本节点>
 DOMAIN,cc.ccemby.tk
+DOMAIN,dx2.carryz.net
 
 # > Peach <港日节点>
 DOMAIN,embymv.tk
