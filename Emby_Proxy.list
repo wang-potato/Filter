@@ -5,6 +5,8 @@
 
 #> 1111
 DOMAIN,line.xmsl.org
+DOMAIN,pm.xmsl.org
+DOMAIN-SUFFIX,xmsl.org
 
 # > TreeDiagram(未解决)
 DOMAIN-SUFFIX,123456.al
@@ -44,3 +46,6 @@ DOMAIN-SUFFIX,aca.best
 
 # > PornEmby
 DOMAIN,pornemby.club
+
+# > PornEmby VIP
+DOMAIN-SUFFIX,ii00.cc
