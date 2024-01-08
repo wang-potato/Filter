@@ -2,6 +2,9 @@
 #更新时间2024-01-08
 #======================================#
 
+# > polo
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN,auto.polodns.xyz
 
 # > 垃圾影音
 DOMAIN-SUFFIX,xmsl.org
@@ -22,10 +25,6 @@ DOMAIN-SUFFIX,jmsooo.com
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
 DOMAIN,pub3.emby.wtf
-
-# > polo
-DOMAIN-SUFFIX,poloemby.xyz
-DOMAIN,auto.polodns.xyz
 
 # > TreeDiagram(未解决)
 DOMAIN-SUFFIX,123456.al
