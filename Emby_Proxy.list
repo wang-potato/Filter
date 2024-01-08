@@ -43,6 +43,7 @@ DOMAIN,dx2.carryz.net
 # > Peach <港日节点>
 DOMAIN,embymv.tk
 IP-CIDR,193.123.232.141/32,no-resolve
+IP-CIDR,141.147.166.107/32,no-resolve
 
 # > PornEmby
 DOMAIN,pornemby.club
