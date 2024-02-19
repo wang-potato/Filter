@@ -1,5 +1,5 @@
 #======================================#
-#更新时间2024-01-08
+#更新时间2024-02-19
 #======================================#
 
 # > polo
@@ -36,11 +36,11 @@ DOMAIN-SUFFIX,aca.best
 DOMAIN-SUFFIX,misakaf.org
 
 # > Cc <日本节点>
-DOMAIN,cc.ccemby.tk
+DOMAIN,cc.coemn.com
 DOMAIN,dx2.carryz.net
 
 # > Peach <港日节点>
-DOMAIN,embymv.tk
+DOMAIN,peachmv.me
 IP-CIDR,193.123.232.141/32,no-resolve
 IP-CIDR,141.147.166.107/32,no-resolve
 
