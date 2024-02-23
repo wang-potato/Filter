@@ -26,7 +26,7 @@ DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
 DOMAIN,pub3.emby.wtf
 
-# > TreeDiagram(未解决)
+# > TreeDiagram
 DOMAIN-SUFFIX,123456.al
 
 # > ACA <机场服>
