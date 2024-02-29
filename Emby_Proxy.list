@@ -1,15 +1,12 @@
 #======================================#
-#更新时间2024-02-19
+#更新时间2024-02-29
 #======================================#
 
 # > polo
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN,auto.polodns.xyz
 
-# > 垃圾影音
-DOMAIN-SUFFIX,xmsl.org
-
-#> 1111
+#> 垃圾影音&公费
 DOMAIN,line.xmsl.org
 DOMAIN,pm.xmsl.org
 DOMAIN-SUFFIX,xmsl.org
@@ -41,8 +38,6 @@ DOMAIN,dx2.carryz.net
 
 # > Peach <港日节点>
 DOMAIN,peachmv.me
+DOMAIN,embymv.tk
 IP-CIDR,193.123.232.141/32,no-resolve
 IP-CIDR,141.147.166.107/32,no-resolve
-
-# > PornEmby
-DOMAIN,pornemby.club
