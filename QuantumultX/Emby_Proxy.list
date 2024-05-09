@@ -36,6 +36,6 @@ DOMAIN-SUFFIX,misakaf.org
 DOMAIN,cc.coemn.com
 DOMAIN,dx2.carryz.net
 
-# > Peach <港日节点>
+# > Peach <直连/港日节点>
 DOMAIN,embymv.tk
 IP-CIDR,193.123.232.141/32,no-resolve
