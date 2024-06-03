@@ -1,2 +1,3 @@
 #fsm登录
-Domminfsm.name
+DOMAIN,fsm.name
+DOMAIN-SUFFIX,fsm.name
