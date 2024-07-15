@@ -1,5 +1,5 @@
 #======================================#
-#更新时间2024-02-29
+#更新时间2024-07-15
 #======================================#
 
 # > polo
@@ -32,9 +32,3 @@ DOMAIN-SUFFIX,aca.best
 # > MisakaF
 DOMAIN-SUFFIX,misakaf.org
 
-# > Cc <日本节点>
-DOMAIN,cc.coemn.com
-DOMAIN,dx2.carryz.net
-
-# > PornEmby VIP
-DOMAIN-SUFFIX,ii00.cc
