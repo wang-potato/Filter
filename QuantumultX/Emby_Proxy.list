@@ -1,5 +1,5 @@
 #======================================#
-#更新时间2024-07-15
+#更新时间2024-07-30
 #======================================#
 
 # > polo
@@ -28,6 +28,9 @@ DOMAIN-SUFFIX,123456.al
 
 # > ACA <机场服>
 DOMAIN-SUFFIX,aca.best
+
+# > MisakaF
+DOMAIN,misty.cx
 
 # > MisakaF
 DOMAIN-SUFFIX,misakaf.org
