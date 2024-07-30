@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,jmsooo.com
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
 DOMAIN,pub3.emby.wtf
+DOMAIN,pub1cf.emby.wtf
+DOMAIN,pub2cf.emby.wtf
+DOMAIN,pub3cf.emby.wtf
 
 # > TreeDiagram
 DOMAIN-SUFFIX,123456.al
