@@ -6,10 +6,9 @@
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN,auto.polodns.xyz
 
-#> 垃圾影音&公费
-DOMAIN,line.xmsl.org
-DOMAIN,pm.xmsl.org
-DOMAIN-SUFFIX,xmsl.org
+#> 垃圾影音公益
+DOMAIN,cf.xmsl.org
+DOMAIN,cf.xmsl.more
 
 # > 尘烬
 DOMAIN,free.emby.eu.org
