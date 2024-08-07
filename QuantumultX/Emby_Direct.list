@@ -9,3 +9,8 @@ IP-CIDR,193.123.232.141/32,no-resolve
 # > CC <直连优化>
 DOMAIN,cc.coemn.com
 DOMAIN,dx2.carryz.net
+
+#> 垃圾影音公费<直连线路>
+DOMAIN,line.emby.moe
+DOMAIN,line.xmsl.org
+DOMAIN,pm.xmsl.org
