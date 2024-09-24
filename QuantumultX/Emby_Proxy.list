@@ -41,3 +41,8 @@ DOMAIN,embyplus.org
 # > MisakaF
 DOMAIN-SUFFIX,misakaf.org
 
+
+# > CC 
+DOMAIN,cc.coemn.com
+DOMAIN,cc.embycc.link
+
