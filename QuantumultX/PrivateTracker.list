@@ -1,7 +1,7 @@
 # UPDATED: 2024-06-03 2024-06-03 17:11:12
 
 #咖啡
-DOMAIN,tracker.ptcafe.club
+DOMAIN-SUFFIX,ptcafe.club
 
 #rousi
 DOMAIN,rousi.zip
@@ -14,5 +14,4 @@ DOMAIN,nextpt.net
 DOMAIN,connects.icu
 
 #HHClub
-DOMAIN,hhanclub.top
-DOMAIN,tracker.hhan.club
+DOMAIN-SUFFIX,hhan.club
