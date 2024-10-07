@@ -4,14 +4,17 @@
 DOMAIN-SUFFIX,ptcafe.club
 
 #rousi
-DOMAIN,rousi.zip
+DOMAIN-SUFFIX,rousi.zip
 
 #Ubits
-DOMAIN,ubits.club
+DOMAIN-SUFFIX,ubits.club
 
 #fsm
-DOMAIN,nextpt.net
-DOMAIN,connects.icu
+DOMAIN-SUFFIX,nextpt.net
+DOMAIN-SUFFIX,connects.icu
 
 #HHClub
 DOMAIN-SUFFIX,hhan.club
+
+#红叶
+DOMAIN-SUFFIX,leaves.red
