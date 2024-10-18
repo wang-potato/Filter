@@ -19,12 +19,8 @@ DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,jmsuper.com
 
 # > 终点站
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
-DOMAIN,pub1cf.emby.wtf
-DOMAIN,pub2cf.emby.wtf
-DOMAIN,pub3cf.emby.wtf
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,term.wtf
 
 # > TreeDiagram
 DOMAIN-SUFFIX,123456.al
