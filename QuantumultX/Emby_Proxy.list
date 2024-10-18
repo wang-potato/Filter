@@ -1,5 +1,5 @@
 #======================================#
-#更新时间2024-07-30
+#更新时间2024-10-18
 #======================================#
 
 # > polo
@@ -11,8 +11,7 @@ DOMAIN,cf.xmsl.org
 DOMAIN,cf.xmsl.more
 
 # > 尘烬
-DOMAIN,free.emby.eu.org
-DOMAIN,9wfree.emby.eu.org
+DOMAIN-SUFFIX,emby.eu.org
 
 # > 卷毛鼠
 DOMAIN-SUFFIX,jmsooo.com
@@ -29,10 +28,10 @@ DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,aca.best
 
 # > MisakaF
-DOMAIN,misty.cx
+DOMAIN-SUFFIX,misty.cx
 
 # > 纸片人
-DOMAIN,embyplus.org
+DOMAIN-SUFFIX,embyplus.org
 
 # > MisakaF
 DOMAIN-SUFFIX,misakaf.org
