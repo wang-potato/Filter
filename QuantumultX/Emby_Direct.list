@@ -3,7 +3,7 @@
 #======================================#
 
 # > Peach <直连/港日节点>
-DOMAIN,embymv.tk
+DOMAIN,embymv.link
 IP-CIDR,193.123.232.141/32,no-resolve
 
 #> 垃圾影音公费<直连线路>
