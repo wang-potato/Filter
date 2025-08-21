@@ -1,22 +1,18 @@
 #======================================#
-#更新时间2025-02-05
+#更新时间2025-08-21
 #======================================#
 
 # > Polo
 DOMAIN-SUFFIX,poloemby.xyz
-DOMAIN,auto.polodns.xyz
 
 #> 垃圾影音公益
 DOMAIN,cf.xmsl.org
-DOMAIN,cf.xmsl.more
 
 # > 卷毛鼠
-DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,jmsuper.com
 
 # > 终点站
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,term.wtf
 
 # > Misty
 DOMAIN-SUFFIX,misty.cx
@@ -33,4 +29,4 @@ DOMAIN,embymv.link
 IP-CIDR,193.123.232.141/32,no-resolve
 
 # > 守候影院
-DOMAIN,emby.cn2gias.uk
+DOMAIN-SUFFIX,cn2gias.uk
