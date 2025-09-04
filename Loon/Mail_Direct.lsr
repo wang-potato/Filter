@@ -1,0 +1,9 @@
+# NAME: Mail_Direct
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-04-29 13:34:29
+DOMAIN,imap-mail.outlook.com,Mail
+DOMAIN,outlook.office365.com,Mail
+DOMAIN,smtp-mail.outlook.com,Mail
+DOMAIN,smtp.office365.com,Mail
+DOMAIN-SUFFIX,m.hotmail.com,Mail
