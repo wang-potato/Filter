@@ -1,0 +1,32 @@
+#======================================#
+#更新时间2025-08-21
+#======================================#
+
+# > Polo
+DOMAIN-SUFFIX,poloemby.xyz
+
+#> 垃圾影音公益
+DOMAIN,cf.xmsl.org
+
+# > 卷毛鼠
+DOMAIN-SUFFIX,jmsuper.com
+
+# > 终点站
+DOMAIN-SUFFIX,emby.wtf
+
+# > Misty
+DOMAIN-SUFFIX,misty.cx
+
+# > 纸片人
+DOMAIN-SUFFIX,embyplus.org
+
+# > CC 
+DOMAIN,cc.coemn.com
+DOMAIN,cc.embycc.link
+
+# > Peach
+DOMAIN,embymv.link
+IP-CIDR,193.123.232.141/32,no-resolve
+
+# > 守候影院
+DOMAIN-SUFFIX,cn2gias.uk
