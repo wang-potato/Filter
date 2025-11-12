@@ -30,3 +30,6 @@ IP-CIDR,193.123.232.141/32,no-resolve
 
 # > 守候影院
 DOMAIN-SUFFIX,cn2gias.uk
+
+# > Ash机场服
+DOMAIN,tv.ash.yt
