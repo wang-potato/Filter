@@ -42,16 +42,16 @@ DOMAIN-SUFFIX,pterclub.net
 # ===== BT / P2P 直连规则 =====
 
 # qBittorrent
-DST-PORT,47424,DIRECT
-DST-PORT,47424/udp,DIRECT
+DST-PORT,47424
+DST-PORT,47424/udp
 
 # Transmission
-DST-PORT,62396,DIRECT
-DST-PORT,62396/udp,DIRECT
+DST-PORT,62396
+DST-PORT,62396/udp
 
 # 进程名（双保险）
-PROCESS-NAME,qbittorrent,DIRECT
-PROCESS-NAME,qbittorrent-nox,DIRECT
-PROCESS-NAME,transmission-daemon,DIRECT
-PROCESS-NAME,transmission-qt,DIRECT
+PROCESS-NAME,qbittorrent
+PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,transmission-daemon
+PROCESS-NAME,transmission-qt
 
