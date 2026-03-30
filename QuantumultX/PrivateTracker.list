@@ -39,19 +39,3 @@ DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,pterclub.net
 
 
-# ===== BT / P2P 直连规则 =====
-
-# qBittorrent
-DST-PORT,47424
-DST-PORT,47424/udp
-
-# Transmission
-DST-PORT,62396
-DST-PORT,62396/udp
-
-# 进程名（双保险）
-PROCESS-NAME,qbittorrent
-PROCESS-NAME,qbittorrent-nox
-PROCESS-NAME,transmission-daemon
-PROCESS-NAME,transmission-qt
-
