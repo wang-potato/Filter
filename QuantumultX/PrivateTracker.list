@@ -55,4 +55,3 @@ PROCESS-NAME,qbittorrent-nox,DIRECT
 PROCESS-NAME,transmission-daemon,DIRECT
 PROCESS-NAME,transmission-qt,DIRECT
 
-
