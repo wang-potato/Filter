@@ -1,4 +1,7 @@
 
+# UPDATED: 2026-1-28
+
+payload:
 # > Ai general rules
   - DOMAIN,api.statsig.com
   - DOMAIN,browser-intake-datadoghq.com
@@ -18,10 +21,6 @@
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
-
-# > Apple AI
-  - DOMAIN-SUFFIX,apple-relay.cloudflare.com
-  - DOMAIN-SUFFIX,apple-relay.apple.com
   
 # > Anthropic/Claude
   - DOMAIN,cdn.usefathom.com
@@ -31,9 +30,6 @@
 
 # > Cursor
   - DOMAIN-SUFFIX,cursor.sh
-
-# > Deepseek
-HOST-SUFFIX,deepseek.com
 
 # > Dify AI
   - DOMAIN-SUFFIX,dify.ai
@@ -52,6 +48,7 @@ HOST-SUFFIX,deepseek.com
   - DOMAIN-SUFFIX,colab.research.google.com
   - DOMAIN-SUFFIX,developerprofiles.google.com
   - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
 # > JetBrains AI
@@ -60,6 +57,12 @@ HOST-SUFFIX,deepseek.com
 # > Meta
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
+
+
+# > Notebooklm
+  - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-SUFFIX,notebooklm.google
+
 
 # > Microsoft Copilot
   - DOMAIN,api.msn.com
@@ -108,6 +111,3 @@ HOST-SUFFIX,deepseek.com
 # > xAI/Grok
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,grok.com
-# > xAI/Grok
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.com
