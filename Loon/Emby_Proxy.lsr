@@ -5,7 +5,7 @@
 # > Polo
 DOMAIN-SUFFIX,poloemby.xyz
 
-#> 垃圾影音公益
+#> 垃圾影音
 DOMAIN,cf.xmsl.org
 
 # > 卷毛鼠
@@ -14,9 +14,6 @@ DOMAIN-SUFFIX,cr18.eu.org
 
 # > 终点站
 DOMAIN-SUFFIX,emby.wtf
-
-# > Misty
-DOMAIN-SUFFIX,misty.cx
 
 # > 纸片人
 DOMAIN-SUFFIX,embyplus.org
